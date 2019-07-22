@@ -1,4 +1,4 @@
-package br.com.pinalli.analisedados.moldeltest;
+package br.com.pinalli.analisedados.model.test;
 
 import org.junit.Before;
 import org.junit.Test;
