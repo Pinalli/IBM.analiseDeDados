@@ -4,3 +4,4 @@ travis init
 language: java
 gem install travis-lint
 travis lint
+bundle update
