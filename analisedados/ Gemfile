@@ -1,0 +1,6 @@
+gem 'travis'
+bundle install
+travis init
+language: java
+gem install travis-lint
+travis lint
